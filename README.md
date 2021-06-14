@@ -1,6 +1,7 @@
 # Why doesn't lazy loading work?
 
 ##Before Clearing LazyLoadingEnabled=True:
+```
 -------
 ParticipantList 'I'm a P List' Id=1
         1: 123@gmail.com
@@ -27,5 +28,5 @@ ParticipantList 'I'm a P List' Id=1
         1: 123@gmail.com
         2: 456@gmail.com
 -------
-
+```
 
